@@ -12,3 +12,5 @@ A and S to navigate the menu
 Enter for the menu choices
 Arrow keys for movement
 Enjoy!
+
+<img width="969" alt="Screenshot 2024-10-31 at 17 55 06" src="https://github.com/user-attachments/assets/b2ea2a59-dd7e-4027-8ed1-56d2b0158d89">
